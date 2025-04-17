@@ -2,7 +2,7 @@
   "identifier": "siliconflow-image",
   "api": [
     {
-      "url": "https://newapi.tx88.eu.org/v1/images/generations",
+      "url": "https://api.siliconflow.cn/v1/images/generations",
       "name": "generateImage",
       "description": "使用SiliconFlow的图像生成API，根据文本提示生成图片",
       "parameters": {
